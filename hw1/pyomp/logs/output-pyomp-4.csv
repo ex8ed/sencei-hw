@@ -1,0 +1,4 @@
+OMP: Info #277: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+Pi: 3.141592653589821
+Time: 1.7185471057891846 s
+Threading layer: omp
